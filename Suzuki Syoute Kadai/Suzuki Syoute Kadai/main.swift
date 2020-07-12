@@ -104,7 +104,3 @@ if sameijCount == s {
 } else {
     print("no")
 }
-
-print(bingoiNumber)
-print(bingojNumber)
-print(ijCount)
